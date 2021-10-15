@@ -1,4 +1,14 @@
 body {
   background-color: rgb(72, 173, 173);
-  color: rgb(0, 255, 136);
+  color: rgb(68, 156, 115);
+}
+
+.Greeting {
+  color: chocolate;
+}
+.Hello {
+  color: darkgreen;
+}
+h2 {
+  color: chartreuse;
 }
