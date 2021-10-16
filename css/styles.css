@@ -4,11 +4,25 @@ body {
 }
 
 .Greeting {
+  padding-left: 200px;
   color: chocolate;
 }
 .Hello {
+  padding-left: 20px;
   color: darkgreen;
 }
 h2 {
   color: chartreuse;
+}
+
+.Text-of-tasks1 {
+  font-size: 16px;
+  line-height: 24px;
+}
+.Color-of-numbers {
+  color: black;
+}
+
+.Color-of-texts {
+  color: rgb(155, 21, 126);
 }
